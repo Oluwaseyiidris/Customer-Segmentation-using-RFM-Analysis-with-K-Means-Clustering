@@ -35,7 +35,7 @@ This project demonstrates how data-driven segmentation can transform raw transac
 │   ├── 01_load_data.sql            # Load data into MySQL
 │   ├── 02_data_cleaning.sql        # Data cleaning and standardization
 │   └── 03_rfm_calculation.sql      # RFM metrics calculation
-├──Python scripts/
+├──scripts/
 │   ├── 01_data_cleaning.py         # Date parsing and initial cleaning
 │   ├── 02_rfm_normalization.py     # Normalize RFM values
 │   ├── 03_kmeans_clustering.py     # K-Means clustering with elbow method
@@ -302,4 +302,5 @@ ACKNOWLEDGEMENTS
 
 
 CALL
+
  If you found this project helpful, please consider giving it a star!
