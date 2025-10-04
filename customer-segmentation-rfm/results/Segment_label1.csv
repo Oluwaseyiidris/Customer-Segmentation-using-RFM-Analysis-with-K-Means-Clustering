@@ -1,0 +1,5 @@
+"Cluster";"Label";"Num_Customers";"Avg_Recency";"Avg_Frequency";"Avg_Monetary"
+0;"Window Shoppers";955;0.24;0.01;0.01
+1;"At Risk";538;0.42;0.01;0.0
+2;"VIP / Loyal Customers";1352;0.06;0.03;0.02
+3;"Dormant Customers";152;0.83;0.01;0.0
